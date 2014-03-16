@@ -13,7 +13,7 @@ console output:
 
 ![image of console output](http://i.imgur.com/0YInuDC.png)
 
-Check `./output/stocks.json` for results.
+Or check `./output/stocks.json` for results.
 
 # disclaimer
 
