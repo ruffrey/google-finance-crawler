@@ -9,11 +9,10 @@ This is an example Node.js app for crawling and scraping data from google financ
     npm install
     node crawler
 
-console output:
+Sit back and relax. Check `./output/stocks.json` for results.
 
-![image of console output](http://i.imgur.com/0YInuDC.png)
+![image of console output](http://i.imgur.com/Q3o7RUR.png)
 
-Or check `./output/stocks.json` for results.
 
 # disclaimer
 
