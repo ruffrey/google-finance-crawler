@@ -15,7 +15,7 @@ function stockParser($) {
 		}
 	};
 
-	stock.title = $('title').text();
+	stock.title = $('title').text().split(' - ')[0];
 	stock.name = $('div.appbar-snippet-primary span').text();
 
 	var marketAndNameText = $('div.appbar-snippet-secondary').text();

@@ -1,17 +1,20 @@
 var colors = require('colors'),
+	fs = require('fs'),
+
 	Stock = require('./stockParser'),
 	url = require('url'),
 	URLS = [],
+	StockData = [];
 
 	hostOnly = "www.google.com",
 	pathOnly = "/finance",
-	initialPage = "https://www.google.com/finance?q=NASDAQ%3AGOOG",
+	initialPage = "https://www.google.com/finance",
 
 	Crawler = require("crawler").Crawler,
 
 	c = new Crawler({
 
-		maxConnections: 1,
+		maxConnections: 2,
 
 		userAgent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36",
 
@@ -23,16 +26,17 @@ var colors = require('colors'),
 				return;
 			}
 
-			if(result.options.uri)
-			{
-				URLS.push(result.options.uri);
-			}
 
 			if(result.body && $)
 			{
+				// the meat
 				var stock = Stock($);
-				
-				console.log(result.options.uri, '\n  ', JSON.stringify(stock, null, 2) );
+				StockData.push(stock);
+
+				// Write the stock data to a file
+				writeResults(StockData);
+
+				console.log('\n', result.options.uri, JSON.stringify(stock, null, 2) );
 
 				var $a = $("a");
 				var validLinks = [];
@@ -42,7 +46,7 @@ var colors = require('colors'),
 			    	
 			    	if(a.href.indexOf("javascript:") != -1)
 			    	{
-			    		// console.log('js link'.yellow.bold, a.href.yellow);
+			    		// console.log('  js link'.yellow.bold, a.href.yellow);
 			    		return;
 			    	}
 
@@ -50,22 +54,22 @@ var colors = require('colors'),
 			    		reqUrl = url.parse(a.href),
 			    		isRightDomain = reqUrl.hostname == hostOnly && reqUrl.pathname == pathOnly;
 
-			    	if(beenHereBefore) 
-			    	{
-			    		// console.log('Already been here'.grey, '\n  ', a.href.grey);
+			    	if(beenHereBefore){
+			    		//console.log('  ', a.href.grey);
 			    		return;
 			    	}
 
-			    	if(isRightDomain)
-			    	{
+			    	if(isRightDomain) {
+			    		//console.log('  ', a.href.green);
+						URLS.push(a.href);
 			    		validLinks.push(a.href);
 			    	}
-			    	// else {
-			    	// 	console.log('External'.yellow.bold, '\n  ', a.href.yellow);
-			    	// }
+			    	
 			    });
 			    c.queue(validLinks);
-				console.log('  ', validLinks.length, '/', $a.length, 'valid links');
+				console.log('  ', validLinks.length, '/', $a.length, 'valid links on this page');
+				console.log('  ', 'total queued or visited:', URLS.length);
+				console.log('  ', 'captured stocks:', StockData.length);
 
 			} 
 		   	else{
@@ -79,6 +83,10 @@ var colors = require('colors'),
 
 // Queue just one URL, with default callback
 c.queue(initialPage);
+
+function writeResults(obj){
+	fs.writeFileSync(__dirname+'/output/stocks.json', JSON.stringify(obj, null, 2) );
+}
 
 // Queue a list of URLs
 // c.queue(["http://jamendo.com/","http://tedxparis.com"]);

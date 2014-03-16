@@ -1,0 +1,1077 @@
+[
+  {
+    "title": "Google Finance: Stock market quotes, news, currency conversions & more",
+    "name": "Market Summary",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Google Finance: Stock market quotes, news, currency conversions & more",
+    "name": "Market Summary",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "SSE Composite Index: SHA:000001 quotes & news",
+    "name": "SSE Composite Index",
+    "market": "SHA",
+    "symbol": "000001",
+    "quote": "2,004.34",
+    "change": {
+      "amount": "-14.77",
+      "percent": "-0.73"
+    }
+  },
+  {
+    "title": "HANG SENG INDEX: INDEXHANGSENG:HSI quotes & news",
+    "name": "HANG SENG INDEX",
+    "market": "INDEXHANGSENG",
+    "symbol": "HSI",
+    "quote": "21,539.49",
+    "change": {
+      "amount": "-216.59",
+      "percent": "-1.00"
+    }
+  },
+  {
+    "title": "Nikkei 225: INDEXNIKKEI:NI225 quotes & news",
+    "name": "Nikkei 225",
+    "market": "INDEXNIKKEI",
+    "symbol": "NI225",
+    "quote": "14,327.66",
+    "change": {
+      "amount": "-488.32",
+      "percent": "-3.30"
+    }
+  },
+  {
+    "title": "TSEC weighted index: TPE:TAIEX quotes & news",
+    "name": "TSEC weighted index",
+    "market": "TPE",
+    "symbol": "TAIEX",
+    "quote": "8,687.63",
+    "change": {
+      "amount": "-60.16",
+      "percent": "-0.69"
+    }
+  },
+  {
+    "title": "FTSE 100: INDEXFTSE:UKX quotes & news",
+    "name": "FTSE 100",
+    "market": "INDEXFTSE",
+    "symbol": "UKX",
+    "quote": "6,527.89",
+    "change": {
+      "amount": "-25.89",
+      "percent": "-0.40"
+    }
+  },
+  {
+    "title": "ESTX 50 PR.EUR: INDEXSTOXX:SX5E quotes & news",
+    "name": "ESTX 50 PR.EUR",
+    "market": "INDEXSTOXX",
+    "symbol": "SX5E",
+    "quote": "3,004.64",
+    "change": {
+      "amount": "-14.90",
+      "percent": "-0.49"
+    }
+  },
+  {
+    "title": "CAC 40: INDEXEURO:PX1 quotes & news",
+    "name": "CAC 40",
+    "market": "INDEXEURO",
+    "symbol": "PX1",
+    "quote": "4,216.37",
+    "change": {
+      "amount": "-34.14",
+      "percent": "-0.80"
+    }
+  },
+  {
+    "title": "S&P/ASX 200: INDEXASX:XJO quotes & news",
+    "name": "S&P/ASX 200",
+    "market": "INDEXASX",
+    "symbol": "XJO",
+    "quote": "5,329.40",
+    "change": {
+      "amount": "-83.20",
+      "percent": "-1.54"
+    }
+  },
+  {
+    "title": "S&P BSE SENSEX: INDEXBOM:SENSEX quotes & news",
+    "name": "S&P BSE SENSEX",
+    "market": "INDEXBOM",
+    "symbol": "SENSEX",
+    "quote": "21,809.80",
+    "change": {
+      "amount": "0.00",
+      "percent": "0.00"
+    }
+  },
+  {
+    "title": "KOSPI Composite Index: INDEXKRX:KOSPI quotes & news",
+    "name": "KOSPI Composite Index",
+    "market": "INDEXKRX",
+    "symbol": "KOSPI",
+    "quote": "1,919.90",
+    "change": {
+      "amount": "-14.48",
+      "percent": "-0.75"
+    }
+  },
+  {
+    "title": "ATX: INDEXVIE:ATX quotes & news",
+    "name": "ATX",
+    "market": "INDEXVIE",
+    "symbol": "ATX",
+    "quote": "2,386.96",
+    "change": {
+      "amount": "-20.82",
+      "percent": "-0.86"
+    }
+  },
+  {
+    "title": "SMI® PR: INDEXSWX:SMI quotes & news",
+    "name": "SMI® PR",
+    "market": "INDEXSWX",
+    "symbol": "SMI",
+    "quote": "8,114.02",
+    "change": {
+      "amount": "-91.88",
+      "percent": "-1.12"
+    }
+  },
+  {
+    "title": "SET Index: INDEXBKK:SET quotes & news",
+    "name": "SET Index",
+    "market": "INDEXBKK",
+    "symbol": "SET",
+    "quote": "1,372.18",
+    "change": {
+      "amount": "+1.68",
+      "percent": "0.12"
+    }
+  },
+  {
+    "title": "IBOVESPA -: INDEXBVMF:IBOV quotes & news",
+    "name": "IBOVESPA -",
+    "market": "INDEXBVMF",
+    "symbol": "IBOV",
+    "quote": "44,965.66",
+    "change": {
+      "amount": "-478.17",
+      "percent": "-1.05"
+    }
+  },
+  {
+    "title": "Euro: CURRENCY:EUR quotes & news",
+    "name": "Euro (€) ⇨ US Dollar ($)",
+    "market": "EURUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "BIST NATIONAL 100: INDEXIST:XU100 quotes & news",
+    "name": "BIST NATIONAL 100",
+    "market": "INDEXIST",
+    "symbol": "XU100",
+    "quote": "63,278.93",
+    "change": {
+      "amount": "-66.43",
+      "percent": "-0.10"
+    }
+  },
+  {
+    "title": "British Pound Sterling: CURRENCY:GBP quotes & news",
+    "name": "British Pound Sterling (£) ⇨ US Dollar ($)",
+    "market": "GBPUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Japanese Yen (¥)",
+    "market": "USDJPY",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Canadian Dollar (CA$)",
+    "market": "USDCAD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Hong Kong Dollar (HK$)",
+    "market": "USDHKD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Chinese Yuan (CN¥)",
+    "market": "USDCNY",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Australian Dollar: CURRENCY:AUD quotes & news",
+    "name": "Australian Dollar (A$) ⇨ US Dollar ($)",
+    "market": "AUDUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Company Comparison",
+    "name": ".DJI, .INX, .IXIC",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Dow Jones Industrial Average 2 Minute: INDEXDJX:.DJI quotes & news",
+    "name": "Dow Jones Industrial Average 2 Minute",
+    "market": "INDEXDJX",
+    "symbol": ".DJI",
+    "quote": "16,065.67",
+    "change": {
+      "amount": "-43.22",
+      "percent": "-0.27"
+    }
+  },
+  {
+    "title": "NASDAQ Composite: INDEXNASDAQ:.IXIC quotes & news",
+    "name": "NASDAQ Composite",
+    "market": "INDEXNASDAQ",
+    "symbol": ".IXIC",
+    "quote": "4,245.40",
+    "change": {
+      "amount": "-15.02",
+      "percent": "-0.35"
+    }
+  },
+  {
+    "title": "S&P 500: INDEXSP:.INX quotes & news",
+    "name": "S&P 500",
+    "market": "INDEXSP",
+    "symbol": ".INX",
+    "quote": "1,841.13",
+    "change": {
+      "amount": "-5.21",
+      "percent": "-0.28"
+    }
+  },
+  {
+    "title": "Companhia Siderurgica Nacional (ADR): NYSE:SID quotes & news",
+    "name": "Companhia Siderurgica Nacional (ADR)",
+    "market": "NYSE",
+    "symbol": "SID",
+    "quote": "4.10",
+    "change": {
+      "amount": "+0.46",
+      "percent": "12.64"
+    }
+  },
+  {
+    "title": "Ariad Pharmaceuticals, Inc.: NASDAQ:ARIA quotes & news",
+    "name": "Ariad Pharmaceuticals, Inc.",
+    "market": "NASDAQ",
+    "symbol": "ARIA",
+    "quote": "8.17",
+    "change": {
+      "amount": "+0.66",
+      "percent": "8.79"
+    }
+  },
+  {
+    "title": "Ann Inc: NYSE:ANN quotes & news",
+    "name": "Ann Inc",
+    "market": "NYSE",
+    "symbol": "ANN",
+    "quote": "37.53",
+    "change": {
+      "amount": "+2.66",
+      "percent": "7.63"
+    }
+  },
+  {
+    "title": "Rocket Fuel Inc: NASDAQ:FUEL quotes & news",
+    "name": "Rocket Fuel Inc",
+    "market": "NASDAQ",
+    "symbol": "FUEL",
+    "quote": "48.43",
+    "change": {
+      "amount": "+3.83",
+      "percent": "8.59"
+    }
+  },
+  {
+    "title": "Liberty Media Corp: NASDAQ:LMCA quotes & news",
+    "name": "Liberty Media Corp",
+    "market": "NASDAQ",
+    "symbol": "LMCA",
+    "quote": "135.25",
+    "change": {
+      "amount": "+9.11",
+      "percent": "7.22"
+    }
+  },
+  {
+    "title": "Dyax Corp.: NASDAQ:DYAX quotes & news",
+    "name": "Dyax Corp.",
+    "market": "NASDAQ",
+    "symbol": "DYAX",
+    "quote": "9.23",
+    "change": {
+      "amount": "-0.93",
+      "percent": "-9.11"
+    }
+  },
+  {
+    "title": "Navistar International Corp: NYSE:NAV-D quotes & news",
+    "name": "Navistar International Corp",
+    "market": "NYSE",
+    "symbol": "NAV-D",
+    "quote": "10.44",
+    "change": {
+      "amount": "-1.00",
+      "percent": "-8.74"
+    }
+  },
+  {
+    "title": "GW Pharmaceuticals PLC- ADR: NASDAQ:GWPH quotes & news",
+    "name": "GW Pharmaceuticals PLC- ADR",
+    "market": "NASDAQ",
+    "symbol": "GWPH",
+    "quote": "74.69",
+    "change": {
+      "amount": "-6.24",
+      "percent": "-7.71"
+    }
+  },
+  {
+    "title": "Nortel Inversora SA (ADR): NYSE:NTL quotes & news",
+    "name": "Nortel Inversora SA (ADR)",
+    "market": "NYSE",
+    "symbol": "NTL",
+    "quote": "16.62",
+    "change": {
+      "amount": "-1.24",
+      "percent": "-6.94"
+    }
+  },
+  {
+    "title": "China Lodging Group, Ltd (ADR): NASDAQ:HTHT quotes & news",
+    "name": "China Lodging Group, Ltd (ADR)",
+    "market": "NASDAQ",
+    "symbol": "HTHT",
+    "quote": "23.44",
+    "change": {
+      "amount": "-1.73",
+      "percent": "-6.87"
+    }
+  },
+  {
+    "title": "E I Du Pont De Nemours And Co: NYSE:DD-A quotes & news",
+    "name": "E I Du Pont De Nemours And Co",
+    "market": "NYSE",
+    "symbol": "DD-A",
+    "quote": "76.40",
+    "change": {
+      "amount": "+3.35",
+      "percent": "4.59"
+    }
+  },
+  {
+    "title": "Siemens AG (ADR): NYSE:SI quotes & news",
+    "name": "Siemens AG (ADR)",
+    "market": "NYSE",
+    "symbol": "SI",
+    "quote": "125.75",
+    "change": {
+      "amount": "+2.47",
+      "percent": "2.00"
+    }
+  },
+  {
+    "title": "Total SA (ADR): NYSE:TOT quotes & news",
+    "name": "Total SA (ADR)",
+    "market": "NYSE",
+    "symbol": "TOT",
+    "quote": "63.74",
+    "change": {
+      "amount": "+0.74",
+      "percent": "1.17"
+    }
+  },
+  {
+    "title": "Wells Fargo & Co: NYSE:WFC-L quotes & news",
+    "name": "Wells Fargo & Co",
+    "market": "NYSE",
+    "symbol": "WFC-L",
+    "quote": "1,185.85",
+    "change": {
+      "amount": "+8.35",
+      "percent": "0.71"
+    }
+  },
+  {
+    "title": "Fomento Economico Mexicano SAB (ADR): NYSE:FMX quotes & news",
+    "name": "Fomento Economico Mexicano SAB (ADR)",
+    "market": "NYSE",
+    "symbol": "FMX",
+    "quote": "83.33",
+    "change": {
+      "amount": "+0.74",
+      "percent": "0.90"
+    }
+  },
+  {
+    "title": "Google Inc: NASDAQ:GOOG quotes & news",
+    "name": "Google Inc",
+    "market": "NASDAQ",
+    "symbol": "GOOG",
+    "quote": "1,172.80",
+    "change": {
+      "amount": "-16.26",
+      "percent": "-1.37"
+    }
+  },
+  {
+    "title": "Gilead Sciences, Inc.: NASDAQ:GILD quotes & news",
+    "name": "Gilead Sciences, Inc.",
+    "market": "NASDAQ",
+    "symbol": "GILD",
+    "quote": "75.05",
+    "change": {
+      "amount": "-2.96",
+      "percent": "-3.79"
+    }
+  },
+  {
+    "title": "Apple Inc.: NASDAQ:AAPL quotes & news",
+    "name": "Apple Inc.",
+    "market": "NASDAQ",
+    "symbol": "AAPL",
+    "quote": "524.69",
+    "change": {
+      "amount": "-5.96",
+      "percent": "-1.12"
+    }
+  },
+  {
+    "title": "Berkshire Hathaway Inc.: NYSE:BRK.A quotes & news",
+    "name": "Berkshire Hathaway Inc.",
+    "market": "NYSE",
+    "symbol": "BRK.A",
+    "quote": "183,860.00",
+    "change": {
+      "amount": "-1,890.00",
+      "percent": "-1.02"
+    }
+  },
+  {
+    "title": "Bank of America Corp: NYSE:BAC quotes & news",
+    "name": "Bank of America Corp",
+    "market": "NYSE",
+    "symbol": "BAC",
+    "quote": "16.80",
+    "change": {
+      "amount": "-0.36",
+      "percent": "-2.10"
+    }
+  },
+  {
+    "title": "Sirius XM Holdings Inc.: NASDAQ:SIRI quotes & news",
+    "name": "Sirius XM Holdings Inc.",
+    "market": "NASDAQ",
+    "symbol": "SIRI",
+    "quote": "3.44",
+    "change": {
+      "amount": "+0.07",
+      "percent": "2.08"
+    }
+  },
+  {
+    "title": "Facebook Inc: NASDAQ:FB quotes & news",
+    "name": "Facebook Inc",
+    "market": "NASDAQ",
+    "symbol": "FB",
+    "quote": "67.72",
+    "change": {
+      "amount": "-1.11",
+      "percent": "-1.61"
+    }
+  },
+  {
+    "title": "PowerShares QQQ Trust, Series 1 (ETF): NASDAQ:QQQ quotes & news",
+    "name": "PowerShares QQQ Trust, Series 1 (ETF)",
+    "market": "NASDAQ",
+    "symbol": "QQQ",
+    "quote": "88.67",
+    "change": {
+      "amount": "-0.61",
+      "percent": "-0.68"
+    }
+  },
+  {
+    "title": "Cisco Systems, Inc.: NASDAQ:CSCO quotes & news",
+    "name": "Cisco Systems, Inc.",
+    "market": "NASDAQ",
+    "symbol": "CSCO",
+    "quote": "21.35",
+    "change": {
+      "amount": "-0.17",
+      "percent": "-0.79"
+    }
+  },
+  {
+    "title": "SPDR S&P 500 ETF Trust: NYSEARCA:SPY quotes & news",
+    "name": "SPDR S&P 500 ETF Trust",
+    "market": "NYSEARCA",
+    "symbol": "SPY",
+    "quote": "184.66",
+    "change": {
+      "amount": "-0.52",
+      "percent": "-0.28"
+    }
+  },
+  {
+    "title": "Cemex SAB de CV (ADR): NYSE:CX quotes & news",
+    "name": "Cemex SAB de CV (ADR)",
+    "market": "NYSE",
+    "symbol": "CX",
+    "quote": "12.06",
+    "change": {
+      "amount": "-0.25",
+      "percent": "-2.03"
+    }
+  },
+  {
+    "title": "General Motors Company: NYSE:GM quotes & news",
+    "name": "General Motors Company",
+    "market": "NYSE",
+    "symbol": "GM",
+    "quote": "34.09",
+    "change": {
+      "amount": "+0.30",
+      "percent": "0.89"
+    }
+  },
+  {
+    "title": "Yahoo! Inc.: NASDAQ:YHOO quotes & news",
+    "name": "Yahoo! Inc.",
+    "market": "NASDAQ",
+    "symbol": "YHOO",
+    "quote": "37.60",
+    "change": {
+      "amount": "+0.37",
+      "percent": "0.99"
+    }
+  },
+  {
+    "title": "General Electric Company: NYSE:GE quotes & news",
+    "name": "General Electric Company",
+    "market": "NYSE",
+    "symbol": "GE",
+    "quote": "25.11",
+    "change": {
+      "amount": "-0.23",
+      "percent": "-0.91"
+    }
+  },
+  {
+    "title": "iShares S&P 1500 Index Fund (ETF): NYSEARCA:ITOT quotes & news",
+    "name": "iShares S&P 1500 Index Fund (ETF)",
+    "market": "NYSEARCA",
+    "symbol": "ITOT",
+    "quote": "84.73",
+    "change": {
+      "amount": "-0.14",
+      "percent": "-0.16"
+    }
+  },
+  {
+    "title": "Energy",
+    "name": "Energy",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Basic Materials",
+    "name": "Basic Materials",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Cyclical Consumer Goods & Services",
+    "name": "Cyclical Consumer Goods & Services",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Industrials",
+    "name": "Industrials",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Non-Cyclical Consumer Goods & Services",
+    "name": "Non-Cyclical Consumer Goods & Services",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Financials",
+    "name": "Financials",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Technology",
+    "name": "Technology",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Healthcare",
+    "name": "Healthcare",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Telecommunications Services",
+    "name": "Telecommunications Services",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Utilities",
+    "name": "Utilities",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Google Finance: Stock market quotes, news, currency conversions & more",
+    "name": "Market Summary",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "SSE Composite Index: SHA:000001 quotes & news",
+    "name": "SSE Composite Index",
+    "market": "SHA",
+    "symbol": "000001",
+    "quote": "2,004.34",
+    "change": {
+      "amount": "-14.77",
+      "percent": "-0.73"
+    }
+  },
+  {
+    "title": "HANG SENG INDEX: INDEXHANGSENG:HSI quotes & news",
+    "name": "HANG SENG INDEX",
+    "market": "INDEXHANGSENG",
+    "symbol": "HSI",
+    "quote": "21,539.49",
+    "change": {
+      "amount": "-216.59",
+      "percent": "-1.00"
+    }
+  },
+  {
+    "title": "Nikkei 225: INDEXNIKKEI:NI225 quotes & news",
+    "name": "Nikkei 225",
+    "market": "INDEXNIKKEI",
+    "symbol": "NI225",
+    "quote": "14,327.66",
+    "change": {
+      "amount": "-488.32",
+      "percent": "-3.30"
+    }
+  },
+  {
+    "title": "TSEC weighted index: TPE:TAIEX quotes & news",
+    "name": "TSEC weighted index",
+    "market": "TPE",
+    "symbol": "TAIEX",
+    "quote": "8,687.63",
+    "change": {
+      "amount": "-60.16",
+      "percent": "-0.69"
+    }
+  },
+  {
+    "title": "FTSE 100: INDEXFTSE:UKX quotes & news",
+    "name": "FTSE 100",
+    "market": "INDEXFTSE",
+    "symbol": "UKX",
+    "quote": "6,527.89",
+    "change": {
+      "amount": "-25.89",
+      "percent": "-0.40"
+    }
+  },
+  {
+    "title": "ESTX 50 PR.EUR: INDEXSTOXX:SX5E quotes & news",
+    "name": "ESTX 50 PR.EUR",
+    "market": "INDEXSTOXX",
+    "symbol": "SX5E",
+    "quote": "3,004.64",
+    "change": {
+      "amount": "-14.90",
+      "percent": "-0.49"
+    }
+  },
+  {
+    "title": "CAC 40: INDEXEURO:PX1 quotes & news",
+    "name": "CAC 40",
+    "market": "INDEXEURO",
+    "symbol": "PX1",
+    "quote": "4,216.37",
+    "change": {
+      "amount": "-34.14",
+      "percent": "-0.80"
+    }
+  },
+  {
+    "title": "S&P/ASX 200: INDEXASX:XJO quotes & news",
+    "name": "S&P/ASX 200",
+    "market": "INDEXASX",
+    "symbol": "XJO",
+    "quote": "5,329.40",
+    "change": {
+      "amount": "-83.20",
+      "percent": "-1.54"
+    }
+  },
+  {
+    "title": "S&P BSE SENSEX: INDEXBOM:SENSEX quotes & news",
+    "name": "S&P BSE SENSEX",
+    "market": "INDEXBOM",
+    "symbol": "SENSEX",
+    "quote": "21,809.80",
+    "change": {
+      "amount": "0.00",
+      "percent": "0.00"
+    }
+  },
+  {
+    "title": "KOSPI Composite Index: INDEXKRX:KOSPI quotes & news",
+    "name": "KOSPI Composite Index",
+    "market": "INDEXKRX",
+    "symbol": "KOSPI",
+    "quote": "1,919.90",
+    "change": {
+      "amount": "-14.48",
+      "percent": "-0.75"
+    }
+  },
+  {
+    "title": "SMI® PR: INDEXSWX:SMI quotes & news",
+    "name": "SMI® PR",
+    "market": "INDEXSWX",
+    "symbol": "SMI",
+    "quote": "8,114.02",
+    "change": {
+      "amount": "-91.88",
+      "percent": "-1.12"
+    }
+  },
+  {
+    "title": "ATX: INDEXVIE:ATX quotes & news",
+    "name": "ATX",
+    "market": "INDEXVIE",
+    "symbol": "ATX",
+    "quote": "2,386.96",
+    "change": {
+      "amount": "-20.82",
+      "percent": "-0.86"
+    }
+  },
+  {
+    "title": "IBOVESPA -: INDEXBVMF:IBOV quotes & news",
+    "name": "IBOVESPA -",
+    "market": "INDEXBVMF",
+    "symbol": "IBOV",
+    "quote": "44,965.66",
+    "change": {
+      "amount": "-478.17",
+      "percent": "-1.05"
+    }
+  },
+  {
+    "title": "SET Index: INDEXBKK:SET quotes & news",
+    "name": "SET Index",
+    "market": "INDEXBKK",
+    "symbol": "SET",
+    "quote": "1,372.18",
+    "change": {
+      "amount": "+1.68",
+      "percent": "0.12"
+    }
+  },
+  {
+    "title": "BIST NATIONAL 100: INDEXIST:XU100 quotes & news",
+    "name": "BIST NATIONAL 100",
+    "market": "INDEXIST",
+    "symbol": "XU100",
+    "quote": "63,278.93",
+    "change": {
+      "amount": "-66.43",
+      "percent": "-0.10"
+    }
+  },
+  {
+    "title": "Euro: CURRENCY:EUR quotes & news",
+    "name": "Euro (€) ⇨ US Dollar ($)",
+    "market": "EURUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Japanese Yen (¥)",
+    "market": "USDJPY",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "British Pound Sterling: CURRENCY:GBP quotes & news",
+    "name": "British Pound Sterling (£) ⇨ US Dollar ($)",
+    "market": "GBPUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Canadian Dollar (CA$)",
+    "market": "USDCAD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Chinese Yuan (CN¥)",
+    "market": "USDCNY",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "US Dollar: CURRENCY:USD quotes & news",
+    "name": "US Dollar ($) ⇨ Hong Kong Dollar (HK$)",
+    "market": "USDHKD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Company Comparison",
+    "name": ".DJI, .INX, .IXIC",
+    "market": "",
+    "symbol": "",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Australian Dollar: CURRENCY:AUD quotes & news",
+    "name": "Australian Dollar (A$) ⇨ US Dollar ($)",
+    "market": "AUDUSD",
+    "quote": "",
+    "change": {
+      "amount": "",
+      "percent": ""
+    }
+  },
+  {
+    "title": "Dow Jones Industrial Average 2 Minute: INDEXDJX:.DJI quotes & news",
+    "name": "Dow Jones Industrial Average 2 Minute",
+    "market": "INDEXDJX",
+    "symbol": ".DJI",
+    "quote": "16,065.67",
+    "change": {
+      "amount": "-43.22",
+      "percent": "-0.27"
+    }
+  },
+  {
+    "title": "S&P 500: INDEXSP:.INX quotes & news",
+    "name": "S&P 500",
+    "market": "INDEXSP",
+    "symbol": ".INX",
+    "quote": "1,841.13",
+    "change": {
+      "amount": "-5.21",
+      "percent": "-0.28"
+    }
+  },
+  {
+    "title": "Companhia Siderurgica Nacional (ADR): NYSE:SID quotes & news",
+    "name": "Companhia Siderurgica Nacional (ADR)",
+    "market": "NYSE",
+    "symbol": "SID",
+    "quote": "4.10",
+    "change": {
+      "amount": "+0.46",
+      "percent": "12.64"
+    }
+  },
+  {
+    "title": "NASDAQ Composite: INDEXNASDAQ:.IXIC quotes & news",
+    "name": "NASDAQ Composite",
+    "market": "INDEXNASDAQ",
+    "symbol": ".IXIC",
+    "quote": "4,245.40",
+    "change": {
+      "amount": "-15.02",
+      "percent": "-0.35"
+    }
+  },
+  {
+    "title": "Ariad Pharmaceuticals, Inc.: NASDAQ:ARIA quotes & news",
+    "name": "Ariad Pharmaceuticals, Inc.",
+    "market": "NASDAQ",
+    "symbol": "ARIA",
+    "quote": "8.17",
+    "change": {
+      "amount": "+0.66",
+      "percent": "8.79"
+    }
+  },
+  {
+    "title": "Rocket Fuel Inc: NASDAQ:FUEL quotes & news",
+    "name": "Rocket Fuel Inc",
+    "market": "NASDAQ",
+    "symbol": "FUEL",
+    "quote": "48.43",
+    "change": {
+      "amount": "+3.83",
+      "percent": "8.59"
+    }
+  },
+  {
+    "title": "Liberty Media Corp: NASDAQ:LMCA quotes & news",
+    "name": "Liberty Media Corp",
+    "market": "NASDAQ",
+    "symbol": "LMCA",
+    "quote": "135.25",
+    "change": {
+      "amount": "+9.11",
+      "percent": "7.22"
+    }
+  }
+]
