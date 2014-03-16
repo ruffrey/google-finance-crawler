@@ -10,6 +10,7 @@ This is an example Node.js app for crawling and scraping data from google financ
     node crawler
 
 console output:
+
 ![image of console output](http://i.imgur.com/0YInuDC.png)
 
 Check `./output/stocks.json` for results.
