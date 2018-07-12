@@ -1,4 +1,4 @@
-var colors = require('colors'),
+const colors = require('colors'),
 	fs = require('fs'),
 
 	Stock = require('./stockParser'),
@@ -10,7 +10,7 @@ var colors = require('colors'),
 	pathOnly = "/finance",
 	initialPage = "https://www.google.com/finance",
 
-	Crawler = require("crawler").Crawler,
+	Crawler = require("crawler"),
 
 	c = new Crawler({
 
@@ -30,7 +30,7 @@ var colors = require('colors'),
 			if(result.body && $)
 			{
 				// the meat
-				var stock = Stock($);
+				const stock = Stock($);
 				StockData.push(stock);
 
 				// Write the stock data to a file
@@ -38,19 +38,19 @@ var colors = require('colors'),
 
 				console.log('\n', result.options.uri, JSON.stringify(stock, null, 2) );
 
-				var $a = $("a");
-				var validLinks = [];
+				const $a = $("a");
+				const validLinks = [];
 
 				// crawl the links on this page
 			    $a.each(function(index, a) {
-			    	
+
 			    	if(a.href.indexOf("javascript:") != -1)
 			    	{
 			    		// console.log('  js link'.yellow.bold, a.href.yellow);
 			    		return;
 			    	}
 
-			    	var beenHereBefore = URLS.indexOf(a.href) != -1,
+			    	const beenHereBefore = URLS.indexOf(a.href) != -1,
 			    		reqUrl = url.parse(a.href),
 			    		isRightDomain = reqUrl.hostname == hostOnly && reqUrl.pathname == pathOnly;
 
@@ -64,21 +64,18 @@ var colors = require('colors'),
 						URLS.push(a.href);
 			    		validLinks.push(a.href);
 			    	}
-			    	
+
 			    });
 			    c.queue(validLinks);
 				console.log('  ', validLinks.length, '/', $a.length, 'valid links on this page');
 				console.log('  ', 'total queued or visited:', URLS.length);
 				console.log('  ', 'captured stocks:', StockData.length);
 
-			} 
+			}
 		   	else{
 		   		console.log('  response issue'.red);
 		   	}
 		},
-		onDrain: function(){
-			console.log('Queue drained'.green);
-		}
 	});
 
 // Queue just one URL, with default callback

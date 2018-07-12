@@ -15,10 +15,12 @@ function stockParser($) {
 		}
 	};
 
-	stock.title = $('title').text().split(' - ')[0];
+	stock.title = $('title') ? $('title').text().split(' - ')[0] : '';
 	stock.name = $('div.appbar-snippet-primary span').text();
 
-	var marketAndNameText = $('div.appbar-snippet-secondary').text();
+	var marketAndNameText = $('div.appbar-snippet-secondary')
+		? $('div.appbar-snippet-secondary').text()
+		: '';
 	if(marketAndNameText.indexOf(')') != -1)
 	{
 		var marketAndName = marketAndNameText

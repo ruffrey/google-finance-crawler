@@ -1,13 +1,18 @@
 # crawl google finance
 
+NOTE: this project is pretty old and unmaintained.
+
 This is an example Node.js app for crawling and scraping data from google finance.
 
 # quick guide
 
+Best results with Node.js version 10.
+
+
     git clone https://github.com/ruffrey/google-finance-crawler
     cd google-finance-crawler
     npm install
-    node crawler
+    node crawler.js
 
 Sit back and relax. Check `./output/stocks.json` for results.
 
